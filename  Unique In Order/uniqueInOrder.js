@@ -30,3 +30,5 @@ console.log(uniqueInOrder(''))
 // uniqueInOrder('ABBCcAD') == ['A', 'B', 'C', 'c', 'A', 'D']
 // uniqueInOrder([1, 2, 2, 3, 3]) == [1, 2, 3]
 // uniqueInOrder([1, 2, 2, 3, 3]) == []
+// uniqueInOrder([]) == []
+// uniqueInOrder('') == []
